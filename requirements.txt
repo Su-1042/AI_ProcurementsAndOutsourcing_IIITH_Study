@@ -1,0 +1,13 @@
+# Required by generate_research_wordclouds.py
+matplotlib
+nltk
+pandas
+spacy
+tqdm
+wordcloud
+
+# Optional PDF text extraction and OCR fallbacks
+PyMuPDF
+pdfplumber
+pytesseract
+Pillow
